@@ -12,7 +12,7 @@
 
 ---
 
->> a simple website for a fictional arts and crafts store - codecademy project
+> a simple website for a fictional arts and crafts store - codecademy project
 click [here](https://content.codecademy.com/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg) for the Design Specification.
 
 
