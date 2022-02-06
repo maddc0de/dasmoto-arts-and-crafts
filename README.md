@@ -4,8 +4,8 @@
 
 ---
 
-* [Introduction](https://github.com/maddc0de/dasmoto-art-and-crafts#Introduction)
-* [Technologies](https://github.com/maddc0de/dasmoto-art-and-crafts#Technologies)
+* [Introduction](https://github.com/maddc0de/dasmoto-arts-and-crafts#Introduction)
+* [Technologies](https://github.com/maddc0de/dasmoto-arts-and-crafts#Technologies)
 
 
 ### Introduction
